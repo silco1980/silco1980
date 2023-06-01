@@ -1,23 +1,11 @@
-### Hi there 👋. Seja  este é o perfil da Silvia, seja bem vindo!
+### Boas vindas ao meu perfil 💙
 
-Meu nome é Silvia Correa Soranso 
+ ❣️ Meu nome é Silvia Correa Soranso 
 
 Sou professora de Física, aprendendo programação  em  linguagem JavaScript.
 
 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
+Estou aprendendo programação através da plataforma [Alura](https://cursos.alura.com.br) 
 
-<!--
-**silco1980/silco1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/1mwdqr51emcAAAAM/test-typing.gif)
