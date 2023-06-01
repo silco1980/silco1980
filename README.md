@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋. Seja  este é o perfil da Silvia, seja bem vindo!
+
+Meu nome é Silvia Correa Soranso 
+
+Sou professora de Física, aprendendo programação  em  linguagem JavaScript.
+
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
 
 <!--
 **silco1980/silco1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
