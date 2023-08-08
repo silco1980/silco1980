@@ -81,3 +81,42 @@ header {
 .MatematicaII-imagem-titulo{
     padding: 24px 0;
 }
+
+
+.pratica{
+    padding: 24px 0;
+}
+.pratica-imagem{
+    width: 150px;
+}
+
+.pratica-icone{
+    width: 30px;
+    padding: 4px 8px;
+}
+
+.pratica-div{
+    text-align: center;
+    padding: 10px 0;
+}
+
+.pratica-titulo{
+    text-align: center;
+    padding: 30px 0;
+}
+
+.pratica-todos{
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10% 10%;
+}
+
+.rodape{
+    background-image: linear-gradient(#eff2f7,#2c8eb8);
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+   
+}
